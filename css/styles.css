@@ -6,3 +6,14 @@
   font-weight: bold;
   color: #000;
 }
+.angular{ 
+    background: url('../img/angular.png') no-repeat;
+    width:180px;
+    height:180px;
+    display:block;
+    border-radius: 4px;
+    -webkit-box-shadow:0 0 600px red; 
+    -moz-box-shadow: 0 0 60px red; 
+    box-shadow:0 0 60px red;
+    margin:0 auto;
+}
